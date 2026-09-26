@@ -20,7 +20,9 @@ A Windows desktop utility for monitoring live system usage and managing running 
 
 ## Screenshots
 
-> Add screenshots here later to showcase the interface.
+<p align="center">
+  <img src="assets/system-monitor-app.png" alt="System Monitor App screenshot" width="900" />
+</p>
 
 ## Requirements
 
