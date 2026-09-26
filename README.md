@@ -49,15 +49,22 @@ dotnet run
 
 ```text
 SystemMonitorApp/
-├── Form1.cs
-├── Form1.Designer.cs
-├── ProcessModel.cs
-├── Program.cs
-├── SystemMonitorApp.csproj
+├── src/
+│   └── SystemMonitorApp/
+│       ├── Program.cs
+│       ├── Form1.cs
+│       ├── Form1.Designer.cs
+│       └── ProcessModel.cs
+├── tests/
+│   └── SystemMonitorApp.Tests/
+├── docs/
+├── assets/
 ├── .gitignore
 ├── .gitattributes
 ├── LICENSE
 ├── README.md
+├── SystemMonitorApp.csproj
+├── SystemMonitorApp.csproj.user
 ├── bin/
 ├── obj/
 └── .vs/
