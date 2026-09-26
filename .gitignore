@@ -1,0 +1,42 @@
+# Build outputs
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio / .NET generated files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.cache
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb
+*.log
+*.tlog
+*.ilk
+*.aps
+*.pch
+
+# NuGet
+packages/
+*.nupkg
+*.snupkg
+project.lock.json
+
+# ReSharper / Rider
+_ReSharper*/
+*.DotSettings.user
+.idea/
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Publish outputs
+publish/
